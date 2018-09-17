@@ -4,7 +4,7 @@
 
 	$host = "localhost";
 	$usuario = "root";
-	$senhac = "";
+	$senha = "";
 	$bd = "tecflix";
 
 	$mysqli = new mysqli($host, $user, $senha, $bd);
